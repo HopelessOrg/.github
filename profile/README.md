@@ -1,5 +1,3 @@
-# .github
-
 ## This repo is created by a student (MCA) of parul university, vadodara.
 ## An attempt to bring togather a small group of people to work collectively.
 
